@@ -23,7 +23,7 @@ This repository contains programming assignments from the [Deep Learning Special
 
 - Course 3: Structuring Machine Learning Projects
 
-  - There is no PA for this course. But this course comes with very interesting case study quizzes.
+  - There is no PA for this course. But this course comes with a very interesting case study quizzes.
   
 - Course 4: Convolutional Neural Networks
 
