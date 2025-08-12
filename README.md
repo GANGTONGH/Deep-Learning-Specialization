@@ -1,5 +1,8 @@
 # Deep Learning Specialization
 
+## Certificate
+<img src="https://github.com/GANGTONGH/Deep-Learning-Specialization/blob/main/DLS.png" width="1000">
+
 ## Disclaimer
 **These code implementations are intended for reference purposes only.**
 Please make a sincere effort to complete the assignments on your own before consulting this repository. **Do not copy or submit these codes as your own work.**
@@ -47,6 +50,3 @@ This repository contains programming assignments from the [Deep Learning Special
   - [Week 3 - PA 7 - Trigger Word Detection](https://github.com/GANGTONGH/Deep-Learning-Specialization/blob/main/5.%20Sequence%20Models/Week%203/Trigger_word_detection_v2a_NoOutput.ipynb)
   - [Week 4 - PA 8 - Transformers Architecture with TensorFlow](https://github.com/GANGTONGH/Deep-Learning-Specialization/blob/main/5.%20Sequence%20Models/Week%204/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 
-
-## Certificate
-<img src="https://github.com/GANGTONGH/Deep-Learning-Specialization/blob/main/DLS.png" width="1000">
